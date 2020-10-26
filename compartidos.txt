@@ -8,7 +8,6 @@ http://usamaporama.azurewebsites.net/
 https://webhostforasp.net/freeaspwebhosting.aspx
 https://somee.com/default.aspx
 --------------------------------------------
-<<<<<<< Updated upstream
 Orlando Giron 
 --------------------------------------------
 Oscar Daniel Ruiz Pineda
@@ -23,11 +22,6 @@ Angel Eduardo Trinidad
 Kevin Martinez
 -------------------------------------------
 Oscar Daniel Méndez Landaverde
--------------------------------------------- 
-=======
-Montiel Flores
-
--------------------------------------------
->>>>>>> Stashed changes
----------------------------------------
-Evelyn vanessa Rodriguez
+--------------------------------------------
+Rosemarie Aracely Vásquez Sánchez
+--------------------------------------------

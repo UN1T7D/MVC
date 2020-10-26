@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://www.smarterasp.net/free_trial
 https://freeasphosting.net/register.aspx
 https://www.myasp.net/
@@ -38,6 +39,10 @@ Angel Giovanni Zuniga Campos
 Katherine Michelle Moran Bonilla
 ------------------------------------------
 =======
+﻿https://www.smarterasp.net/free_trial
+>>>>>>> aad4638931320d54a840b9d40cde573aea2bd20c
+=======
+<<<<<<< HEAD
 https://www.smarterasp.net/free_trial
 https://freeasphosting.net/register.aspx
 https://www.myasp.net/
@@ -71,7 +76,57 @@ Hugo Mauricio Polanco Ramirez
 ------------------------------------------
 Billy Vicente Mejia Brizuela
 ------------------------------------------
+Katherine Michelle Moran Bonilla
+------------------------------------------
+=======
+https://www.smarterasp.net/free_trial
+>>>>>>> 675c1ec57e308c7defca10a6e68b66a05755b817
+https://freeasphosting.net/register.aspx
+https://www.myasp.net/
+https://www.myasp.net/freeaspnethosting
+http://twaincentral.azurewebsites.net/
+http://bigsurgarrapata.azurewebsites.net/
+http://usamaporama.azurewebsites.net/
+https://webhostforasp.net/freeaspwebhosting.aspx
+https://somee.com/default.aspx
+--------------------------------------------
+Orlando Giron 
+--------------------------------------------
+Oscar Daniel Ruiz Pineda
+--------------------------------------------
+Mario Rodriguez
+-------------------------------------------
+Angel Eduardo Trinidad
+-------------------------------------------
+Danir Lorenzo Sanchez Arias
+--------------------------------------------
+Kevin Martinez
+-------------------------------------------
+<<<<<<< HEAD
+Billy Vicente Mejia Brizuela
+-------------------------------------------
+=======
+Oscar Daniel Méndez Landaverde
+--------------------------------------------
+Jonathan Miranda
+<<<<<<< HEAD
+
+>>>>>>> 0c3709516f6d35905bfb168b678b9e484cc084c1
+--------------------------------------------
+Jessica Martinez
+=======
+-------------------------------------------
+Hugo Mauricio Polanco Ramirez
+------------------------------------------
+Billy Vicente Mejia Brizuela
+------------------------------------------
 Jonathan Dagoberto Orellana Medrano
 ------------------------------------------
 >>>>>>> 7edb5142fa636de9e933ac8bfaddf836d49dcfc5
+<<<<<<< HEAD
 >>>>>>> 359028a0fd3ed8fa17b239a6062369270c96284f
+=======
+------------------------------------------
+Kevin Samuel Medrano Montes
+>>>>>>> 675c1ec57e308c7defca10a6e68b66a05755b817
+>>>>>>> aad4638931320d54a840b9d40cde573aea2bd20c

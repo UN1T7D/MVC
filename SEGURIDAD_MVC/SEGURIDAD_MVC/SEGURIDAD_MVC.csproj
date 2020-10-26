@@ -105,6 +105,7 @@
     <Content Include="Views\vista.cshtml" />
     <Content Include="Views\Vista_Kevin_Martinez.cshtml" />
     <Content Include="Views\MarioRodriguezView.cshtml" />
+    <Content Include="Views\Carlos_Alberto_Sanchez_Castillo.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

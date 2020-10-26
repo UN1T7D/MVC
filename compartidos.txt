@@ -1,4 +1,45 @@
+<<<<<<< HEAD
 ﻿https://www.smarterasp.net/free_trial
+=======
+<<<<<<< HEAD
+https://www.smarterasp.net/free_trial
+https://freeasphosting.net/register.aspx
+https://www.myasp.net/
+https://www.myasp.net/freeaspnethosting
+http://twaincentral.azurewebsites.net/
+http://bigsurgarrapata.azurewebsites.net/
+http://usamaporama.azurewebsites.net/
+https://webhostforasp.net/freeaspwebhosting.aspx
+https://somee.com/default.aspx
+--------------------------------------------
+Orlando Giron 
+--------------------------------------------
+Oscar Daniel Ruiz Pineda
+--------------------------------------------
+<<<<<<< HEAD
+Danir Lorenzo Sanchez Arias
+--------------------------------------------
+Mario Rodriguez
+-------------------------------------------
+Angel Eduardo Trinidad
+-------------------------------------------
+Kevin Martinez
+-------------------------------------------
+Oscar Daniel Méndez Landaverde
+--------------------------------------------
+Rosemarie Aracely Vásquez Sánchez
+--------------------------------------------
+Jonathan Miranda
+-------------------------------------------
+Hugo Mauricio Polanco Ramirez
+------------------------------------------
+Billy Vicente Mejia Brizuela
+------------------------------------------
+Katherine Michelle Moran Bonilla
+------------------------------------------
+=======
+https://www.smarterasp.net/free_trial
+>>>>>>> 675c1ec57e308c7defca10a6e68b66a05755b817
 https://freeasphosting.net/register.aspx
 https://www.myasp.net/
 https://www.myasp.net/freeaspnethosting
@@ -27,7 +68,20 @@ Billy Vicente Mejia Brizuela
 Oscar Daniel Méndez Landaverde
 --------------------------------------------
 Jonathan Miranda
+<<<<<<< HEAD
 
 >>>>>>> 0c3709516f6d35905bfb168b678b9e484cc084c1
 --------------------------------------------
 Jessica Martinez
+=======
+-------------------------------------------
+Hugo Mauricio Polanco Ramirez
+------------------------------------------
+Billy Vicente Mejia Brizuela
+------------------------------------------
+Jonathan Dagoberto Orellana Medrano
+------------------------------------------
+>>>>>>> 7edb5142fa636de9e933ac8bfaddf836d49dcfc5
+------------------------------------------
+Kevin Samuel Medrano Montes
+>>>>>>> 675c1ec57e308c7defca10a6e68b66a05755b817

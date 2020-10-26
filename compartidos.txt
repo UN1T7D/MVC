@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://www.smarterasp.net/free_trial
 https://freeasphosting.net/register.aspx
 https://www.myasp.net/
@@ -31,3 +32,42 @@ Hugo Mauricio Polanco Ramirez
 ------------------------------------------
 Billy Vicente Mejia Brizuela
 ------------------------------------------
+Katherine Michelle Moran Bonilla
+------------------------------------------
+=======
+https://www.smarterasp.net/free_trial
+https://freeasphosting.net/register.aspx
+https://www.myasp.net/
+https://www.myasp.net/freeaspnethosting
+http://twaincentral.azurewebsites.net/
+http://bigsurgarrapata.azurewebsites.net/
+http://usamaporama.azurewebsites.net/
+https://webhostforasp.net/freeaspwebhosting.aspx
+https://somee.com/default.aspx
+--------------------------------------------
+Orlando Giron 
+--------------------------------------------
+Oscar Daniel Ruiz Pineda
+--------------------------------------------
+<<<<<<< HEAD
+Danir Lorenzo Sanchez Arias
+--------------------------------------------
+Mario Rodriguez
+-------------------------------------------
+Angel Eduardo Trinidad
+-------------------------------------------
+Kevin Martinez
+-------------------------------------------
+Oscar Daniel Méndez Landaverde
+--------------------------------------------
+Rosemarie Aracely Vásquez Sánchez
+--------------------------------------------
+Jonathan Miranda
+-------------------------------------------
+Hugo Mauricio Polanco Ramirez
+------------------------------------------
+Billy Vicente Mejia Brizuela
+------------------------------------------
+Jonathan Dagoberto Orellana Medrano
+------------------------------------------
+>>>>>>> 7edb5142fa636de9e933ac8bfaddf836d49dcfc5

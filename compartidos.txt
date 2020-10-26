@@ -12,7 +12,6 @@ Orlando Giron
 --------------------------------------------
 Oscar Daniel Ruiz Pineda
 --------------------------------------------
-<<<<<<< HEAD
 Danir Lorenzo Sanchez Arias
 --------------------------------------------
 Mario Rodriguez

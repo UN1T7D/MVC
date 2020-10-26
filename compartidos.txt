@@ -129,4 +129,9 @@ Jonathan Dagoberto Orellana Medrano
 ------------------------------------------
 Kevin Samuel Medrano Montes
 >>>>>>> 675c1ec57e308c7defca10a6e68b66a05755b817
+<<<<<<< HEAD
 >>>>>>> aad4638931320d54a840b9d40cde573aea2bd20c
+=======
+hola hola 12
+------------------------------------------
+>>>>>>> fdf38a4f7951726d73ae09d3773fda2242555844

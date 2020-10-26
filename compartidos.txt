@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 <<<<<<< HEAD
 https://www.smarterasp.net/free_trial
 https://freeasphosting.net/register.aspx
@@ -135,3 +135,4 @@ Kevin Samuel Medrano Montes
 hola hola 12
 ------------------------------------------
 >>>>>>> fdf38a4f7951726d73ae09d3773fda2242555844
+Carlos Alfonso Ramirez Mendez

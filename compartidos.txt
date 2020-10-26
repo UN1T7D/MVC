@@ -15,7 +15,8 @@ Oscar Daniel Ruiz Pineda
 <<<<<<< HEAD
 Danir Lorenzo Sanchez Arias
 --------------------------------------------
-=======
 Mario Rodriguez
 -------------------------------------------
->>>>>>> a5ca27b708940287f4a8f308c7c1ea07552e764f
+Angel Eduardo Trinidad
+-------------------------------------------
+

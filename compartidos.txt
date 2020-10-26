@@ -1,4 +1,4 @@
-https://www.smarterasp.net/free_trial
+﻿https://www.smarterasp.net/free_trial
 https://freeasphosting.net/register.aspx
 https://www.myasp.net/
 https://www.myasp.net/freeaspnethosting
@@ -12,8 +12,20 @@ Orlando Giron
 --------------------------------------------
 Oscar Daniel Ruiz Pineda
 --------------------------------------------
+<<<<<<< HEAD
+Danir Lorenzo Sanchez Arias
+--------------------------------------------
 Mario Rodriguez
 -------------------------------------------
 Angel Eduardo Trinidad
 -------------------------------------------
+<<<<<<< HEAD
 Carlos Alfonso Ramirez Mendez
+=======
+Kevin Martinez
+-------------------------------------------
+Oscar Daniel Méndez Landaverde
+--------------------------------------------
+Rosemarie Aracely Vásquez Sánchez
+--------------------------------------------
+>>>>>>> 54762321024fca1c7f4125d4e744b6524f1c7dc4

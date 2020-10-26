@@ -20,12 +20,8 @@ Danir Lorenzo Sanchez Arias
 --------------------------------------------
 Kevin Martinez
 -------------------------------------------
-<<<<<<< HEAD
 Billy Vicente Mejia Brizuela
 -------------------------------------------
-=======
 Oscar Daniel Méndez Landaverde
 --------------------------------------------
 Jonathan Miranda
-
->>>>>>> 0c3709516f6d35905bfb168b678b9e484cc084c1

@@ -19,9 +19,8 @@ Mario Rodriguez
 -------------------------------------------
 Angel Eduardo Trinidad
 -------------------------------------------
-<<<<<<< HEAD
 Carlos Alfonso Ramirez Mendez
-=======
+-------------------------------------------
 Kevin Martinez
 -------------------------------------------
 Oscar Daniel Méndez Landaverde

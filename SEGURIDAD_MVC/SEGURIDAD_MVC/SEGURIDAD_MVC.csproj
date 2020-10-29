@@ -108,6 +108,7 @@
     <Content Include="Views\Carlos_Alberto_Sanchez_Castillo.cshtml" />
     <Content Include="Views\Sanchez_Danir.cshtml" />
     <Content Include="Views\StefanieZelaya.cshtml" />
+    <Content Include="Views\View_Elias_Quinteros.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

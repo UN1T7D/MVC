@@ -1,0 +1,32 @@
+﻿@model ejemploMVC.Models.Divicion
+@{
+    ViewBag.Title = "OpercionDivicion";
+}
+
+<h2>OpercionDivicion</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(Model => Model.numer1, new { @class = "control-label" })
+        @Html.TextBoxFor(Model => Model.numer1, new { @class = "form-control", type = "number" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(Model => Model.numer2, new { @class = "control-label" })
+        @Html.TextBoxFor(Model => Model.numer2, new { @class = "form-control", type = "number" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Resultado" class="btn btn-seccess" />
+    </div>
+
+    <br /><br />
+    if (ViewBag.resultado != null)
+    {
+        <p>Resultado:&nbsp;@ViewBag.resultado</p>
+    }
+}

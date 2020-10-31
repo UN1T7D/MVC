@@ -1,0 +1,33 @@
+﻿@model ejemploMVC.Models.Longitud
+@{
+    ViewBag.Title = "Peso";
+}
+
+<h2>Longitud</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(Model => Model.Dato, new { @class = "control-label" })
+        @Html.TextBoxFor(Model => Model.Dato, new { @class = "form-control", type = "number" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Convertir" class="btn btn-seccess" />
+    </div>
+
+    <br /><br />
+    if (ViewBag.resultado != null)
+    {
+        <p>Metros:&nbsp;@ViewBag.resultado</p>
+    }
+
+
+    <br /><br />
+    if (ViewBag.Pulgadas != null)
+    {
+        <p>Pulgadas:&nbsp;@ViewBag.Pulgadas</p>
+    }
+}

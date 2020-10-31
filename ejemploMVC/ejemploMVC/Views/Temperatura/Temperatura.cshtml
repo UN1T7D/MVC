@@ -1,0 +1,36 @@
+﻿@model ejemploMVC.Models.Temperatura
+@{
+    ViewBag.Title = "Temperatura";
+}
+
+<h2>Temperatura</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(Model => Model.dato, new { @class = "control-label" })
+        @Html.TextBoxFor(Model => Model.dato, new { @class = "form-control", type = "number" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Convertir a Celcius" class="btn btn-seccess" />
+    </div>
+
+    <br /><br />
+    if (ViewBag.resultado != null)
+    {
+        <p>Celcius:&nbsp;@ViewBag.resultado</p>
+    }
+
+    <div class="form-group">
+        <input type="submit" value="Convertir a Kelvin" class="btn btn-seccess" />
+    </div>
+
+    <br /><br />
+    if (ViewBag.kelvin != null)
+    {
+        <p>kelvin:&nbsp;@ViewBag.kelvin</p>
+    }
+}

@@ -105,6 +105,8 @@ Kevin Martinez
 <<<<<<< HEAD
 Billy Vicente Mejia Brizuela
 -------------------------------------------
+Gilberto Gabriel Vela Guidos
+-------------------------------------------
 =======
 Oscar Daniel Méndez Landaverde
 --------------------------------------------
@@ -113,7 +115,7 @@ Jonathan Miranda
 
 >>>>>>> 0c3709516f6d35905bfb168b678b9e484cc084c1
 --------------------------------------------
-Jessica Martinez Martinez
+Jessica Martinez
 =======
 -------------------------------------------
 Hugo Mauricio Polanco Ramirez
@@ -139,11 +141,12 @@ Carlos Alfonso Ramirez Mendez
 
 ------------------------------------------
 Sarai Ester Portillo Nerio
----------------------------------------------------------
-Elias Jesus Quinteros Escobar 
--------------------------------------------
-Jonathan Antonio Muñoz Santamaría
-------------------------------
+------------------------------------------
+Bryan Antonio Rogel Rogel
+------------------------------------------
+Zuleyma Odalis Raymundo Lemus
+------------------------------------------
+Gilberto Gabriel Vela Guidos
 
 
 

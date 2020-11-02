@@ -24,7 +24,6 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -108,9 +107,6 @@
     <Content Include="Views\MarioRodriguezView.cshtml" />
     <Content Include="Views\Carlos_Alberto_Sanchez_Castillo.cshtml" />
     <Content Include="Views\Sanchez_Danir.cshtml" />
-    <Content Include="Views\StefanieZelaya.cshtml" />
-    <Content Include="Views\View_Elias_Quinteros.cshtml" />
-    <Content Include="Views\Jessica_Elizabeth_Martinez.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

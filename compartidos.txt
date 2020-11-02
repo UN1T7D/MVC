@@ -105,6 +105,8 @@ Kevin Martinez
 <<<<<<< HEAD
 Billy Vicente Mejia Brizuela
 -------------------------------------------
+Gilberto Gabriel Vela Guidos
+-------------------------------------------
 =======
 Oscar Daniel Méndez Landaverde
 --------------------------------------------
@@ -143,7 +145,7 @@ Sarai Ester Portillo Nerio
 Bryan Antonio Rogel Rogel
 ------------------------------------------
 Zuleyma Odalis Raymundo Lemus
------------------------------------------------------
+------------------------------------------
 
 
 
